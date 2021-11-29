@@ -3,11 +3,11 @@
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_inter": "ca-app-pub-3940256099942544/1033173712",
 
-	"APP_KEY": "119bd88ed",
-	"BANNER_PLACEMENT": "DefaultBanner",
-	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+	"APP_KEY": "1231f03dd",
+	"BANNER_PLACEMENT": "283118003748776_283119147081995",
+	"INTERSTITIAL_PLACEMENT": "283118003748776_283119687081941",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
@@ -22,6 +22,6 @@
 
 	"BUTTON_NAME": "Shop Now",
 
-	"BUTTON_URL": "https://sites.google.com/view/privacypolicyallinone/accueil"
+	"BUTTON_URL": "https://www.dunelm.com"
 
 }
